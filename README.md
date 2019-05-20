@@ -1,2 +1,2 @@
 # actions
-Custom singularity action
+Custom singularity actions
